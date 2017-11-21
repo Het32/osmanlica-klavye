@@ -1,0 +1,12 @@
+cd Desktop
+-----------------------------
+sudo mv otmq /usr/share/X11/xkb/symbols
+-----------------------------
+sudo sed -i "/  <\/layoutList>/ {
+         h
+         r kodq.txt
+         g
+         N
+     }" "/usr/share/X11/xkb/rules/evdev.xml"
+-----------------------------
+Daha fazla bilgi için http://forum.pardus.org.tr/t/osmanlica-klavye/3117
