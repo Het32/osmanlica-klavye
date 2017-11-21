@@ -1,14 +1,14 @@
 # osmanlica-klavye
 Ottoman language keyboard layout for Linux (Ubuntu,pardus etc.). Linux Ubuntu Pardus için osmanlıca klavye
 
-Klavyeyi internette bulamayınca ben yazdım. Şu anda Osmanlıca (F) var. <s>İleride (Q) klavye de ekleyebilirim.</s>Eklendi.
+Klavyeyi internette bulamayınca ben yazdım. F ve Q şeklinde 2 farklı klavye var.
 Hayırlara vesile olması temennisi ile...
 
 El ile kurulum.
 Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurabilir. Sorumluluk almıyorum.
 
 * Öncelikle yedek alalım:
-cp -b /usr/share/X11/xkb/rules/evdev.xml /home/[Kullanıcı Adınız]/Desktop
+> cp -b /usr/share/X11/xkb/rules/evdev.xml /home/[Kullanıcı Adınız]/Desktop
 
 * Tercihinize(F yada Q) göre klavye dosyalarını indirip masaüstüne taşıyın.(Klasörü değil dosyaları.)
 * Uçbirim(terminal)'i açın.
