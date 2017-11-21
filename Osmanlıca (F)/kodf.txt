@@ -1,0 +1,11 @@
+<layout>
+ <configItem>
+   <name>otmf</name>
+   <shortDescription>otmf</shortDescription>
+   <description>Osmanlica(F)</description>
+   <languageList>
+      <iso639Id>otmf</iso639Id>
+   </languageList>
+ </configItem>
+ <variantList/>
+</layout>
