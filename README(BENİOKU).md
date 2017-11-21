@@ -10,6 +10,8 @@ Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurab
 * Öncelikle yedek alalım:
 > cp -b /usr/share/X11/xkb/rules/evdev.xml /home/[Kullanıcı Adınız]/Desktop
 
+<code>asdsada</code>
+
 * Tercihinize(F yada Q) göre klavye dosyalarını indirip masaüstüne taşıyın.(Klasörü değil dosyaları.)
 * Uçbirim(terminal)'i açın.
 * **"Beni Oku** dosyasını açın.
