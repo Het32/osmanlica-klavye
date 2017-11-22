@@ -1,5 +1,6 @@
-# osmanlica-klavye
-Linux Ubuntu Pardus için osmanlıca klavye.  
+# osmanlica-klavye-ottoman-keyboard
+
+**Linux Ubuntu Pardus için osmanlıca klavye.** 
 
 Klavyeyi internette bulamayınca ben yazdım. F ve Q şeklinde 2 farklı klavye var.
 Hayırlara vesile olması temennisi ile...
@@ -20,7 +21,7 @@ Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurab
 
 Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsiniz.(Yedek dosyasını isterseniz saklayın?)
 
-Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)
+**Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)**
 
 This keyboard written by hand for Pardus(a debian based turkish operating system.)
 Can be used other Debian based systems. Possibly any system that use xkb for keyboard layout maybe along a little configuration.
