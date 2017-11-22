@@ -36,6 +36,6 @@ First back up:
 * Copy and paste codes in the **Beni Oku** file one by one to the terminal.(don't forget to pres enter each time)
 * Go to keyboard options and choose **Layout** from the upper menu. Then add Osmanlıca.
 * If you are going to use 2 keyboard at the same time specify a combination from **Chance layout option** for switching between 2 keyboard.
-* Log out or restart your computer for changes to apply.
+* Relog or restart your computer for changes to apply.
 
 That's it. Use previously specified combination for switching keyboards.
