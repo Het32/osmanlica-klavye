@@ -30,10 +30,10 @@ First back up:
 > cp -b /usr/share/X11/xkb/rules/evdev.xml /home/[User Name]/Desktop
 
 * Choose a keyboard. Osmanlıca (Q) is based on US/Latin configuration(qwerty) with some arrangements. Osmanlıca (F) is based on "Turkish F Keyboard" which invented for faster writings but rarely used. Still up to you.
-* Move 3 file that in the folder direcly to desktop.
-* Copy and paste codes in order that in the **Beni Oku** file
+* EXtract 3 file direcly to desktop.
+* Copy and paste codes in the **Beni Oku** file
 * Go to keyboard options and choose **Layout** from the upper menu. Then add Osmanlıca.
-* If you use 2 keyboard at the same time specify a combination from **Chance layout option** for switching between 2 keyboard.
+* If you are going to use 2 keyboard at the same time specify a combination from **Chance layout option** for switching between 2 keyboard.
 * Log out or restart your computer for changes to apply.
 
-That's it. Use previously specified combination for switching keyboard.
+That's it. Use previously specified combination for switching keyboards.
