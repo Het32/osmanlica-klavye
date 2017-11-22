@@ -25,6 +25,7 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 
 This keyboard written by hand for Pardus(a debian based turkish operating system.)
 Can be used on other Debian based systems. Possibly any system that use xkb for keyboard layout maybe along side a little configuration.
+Attention! Use sudo codes wisely they can damage your system. I do not take any respontibility but this is how i did it and it is working without any problem.
 
 First back up:
 > cp -b /usr/share/X11/xkb/rules/evdev.xml /home/[User Name]/Desktop
