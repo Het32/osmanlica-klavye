@@ -24,7 +24,7 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 **Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)**
 
 This keyboard written by hand for Pardus(a debian based turkish operating system.)
-Can be used on other Debian based systems. Possibly any system that use xkb for keyboard layout maybe along side a little configuration.
+Can be used on other Debian based systems. Possibly any system that use xkb for keyboard layout maybe with a little configuration.
 
 Attention! Use sudo codes wisely they can damage your system. I do not take any respontibility but this is how i did it and it is working without any problem.
 
