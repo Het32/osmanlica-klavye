@@ -1,69 +1,68 @@
 //Osmanlıca Q klavye
-//Bu klavye TSE’nin tavsiyesine mutabık bir şekilde #Talebe tarafından tertiplenmiştir.
+//Bu klavye TSE'nin tavsiyesine mutabık bir şekilde #Talebe tarafından tertiplenmiştir.
 //Yine de bazı farklılıkları bulunabilir.
 //Daha fazla bilgi için http://forum.pardus.org.tr/t/osmanlica-klavye/3117
 
+
 partial default alphanumeric_keys
-xkb_symbols “basic” {
-name[Group1]= “Osmanlica”;
-
-key <AE01> { [ 0x10006f1,	exclam,		quoteleft		] };
-key <AE02> { [ 0x10006f2,	0x100066c,	at			] };
-key <AE03> { [ 0x10006f3,	0x100066b,	numbersign		] };
-key <AE04> { [ 0x10006f4,	0x100fdfc,	dollar			] };
-key <AE05> { [ 0x10006f5,	0x100066a,	percent			] };
-key <AE06> { [ 0x10006f6,	multiply,	asciicircum		] };
-key <AE07> { [ 0x10006f7,	Arabic_comma,	ampersand		] };
-key <AE08> { [ 0x10006f8,	asterisk,	enfilledcircbullet	] };
-key <AE09> { [ 0x10006f9,	parenright,	0x100200e		] };
-key <AE10> { [ 0x10006f0,	parenleft,	0x100200f		] };
+xkb_symbols "basic" {
+    name[Group1]= "Osmanlica";
 
 
-key <TLDE> { [ quotedbl,    	division,         	VoidSymbol      ] };
-key <AE11> { [ minus,		Arabic_tatweel,		VoidSymbol	] };
-key <AE12> { [ equal,		plus,			VoidSymbol	] };
-key <BKSL> { [ comma, 	 	bar,            	VoidSymbol  	] };
-key <SPCE> { [ space,		0x100200c,		VoidSymbol	] };
+    key <AE01> { [ 0x10006f1,	exclam,		quoteleft		] };
+    key <AE02> { [ 0x10006f2,	0x100066c,	at			] };
+    key <AE03> { [ 0x10006f3,	0x100066b,	numbersign		] };
+    key <AE04> { [ 0x10006f4,	0x100fdfc,	dollar			] };
+    key <AE05> { [ 0x10006f5,	0x100066a,	percent			] };
+    key <AE06> { [ 0x10006f6,	multiply,	asciicircum		] };
+    key <AE07> { [ 0x10006f7,	Arabic_comma,	ampersand		] };
+    key <AE08> { [ 0x10006f8,	asterisk,	enfilledcircbullet	] };
+    key <AE09> { [ 0x10006f9,	parenright,	0x100200e		] };
+    key <AE10> { [ 0x10006f0,	parenleft,	0x100200f		] };
 
-key <AD01> { [ Arabic_qaf,		0x1000670,		VoidSymbol	] };
-key <AD02> { [ Arabic_thal,		0x1000656,		VoidSymbol	] };
-key <AD03> { [ Arabic_heh,		Arabic_fatha,		VoidSymbol	] };
-key <AD04> { [ Arabic_ra,		VoidSymbol,		VoidSymbol	] };
-key <AD05> { [ Arabic_teh,		Arabic_tehmarbuta,	VoidSymbol	] };
-key <AD06> { [ 0x10006cc,		Arabic_yeh,		VoidSymbol 	] };
-key <AD07> { [ Arabic_sad,		Arabic_damma,		VoidSymbol	] };
-key <AD08> { [ Arabic_ain,		VoidSymbol,		VoidSymbol	] };
-key <AD09> { [ Arabic_tah,		VoidSymbol,		VoidSymbol	] };
-key <AD10> { [ Arabic_peh,		VoidSymbol,		VoidSymbol	] };
-key <AD11> { [ Arabic_ghain,	VoidSymbol,		VoidSymbol	] };
-key <AD12> { [ Arabic_hah,		VoidSymbol,		VoidSymbol	] };
 
-key <AC01> { [ Arabic_alef,		VoidSymbol,		VoidSymbol	] };
-key <AC02> { [ Arabic_seen,		Arabic_sukun,		VoidSymbol	] };
-key <AC03> { [ Arabic_dal,		Arabic_dammatan,	VoidSymbol	] };
-key <AC04> { [ Arabic_feh,		Arabic_fathatan,	VoidSymbol	] };
-key <AC05> { [ Arabic_gaf,		VoidSymbol,		VoidSymbol	] };
-key <AC06> { [ Arabic_heh,		Arabic_hamzaonyeh,	VoidSymbol	] };
-key <AC07> { [ Arabic_jeh,		VoidSymbol,		VoidSymbol	] };
-key <AC08> { [ Arabic_keheh,	Arabic_kasratan,	VoidSymbol	] };
-key <AC09> { [ Arabic_lam,		VoidSymbol,		VoidSymbol	] };
-key <AC10> { [ Arabic_sheen,	Arabic_shadda,		VoidSymbol	] };
-key <AC11> { [ Arabic_dad,		Arabic_kasra,		VoidSymbol	] };
-key <AC12> { [ U2018,		Arabic_semicolon,	VoidSymbol	] };
+    key <TLDE> { [ quotedbl,    	division,         	VoidSymbol      ] };
+    key <AE11> { [ minus,		Arabic_tatweel,		VoidSymbol	] };
+    key <AE12> { [ equal,		plus,			VoidSymbol	] };
+    key <BKSL> { [ comma, 	 	bar,            	VoidSymbol  	] };
+    key <SPCE> { [ space,		0x100200c,		VoidSymbol	] };
 
-key <AB01> { [ Arabic_zain,		Arabic_zah,		VoidSymbol	] };
-key <AB02> { [ Arabic_khah,		Arabic_hamza,		VoidSymbol	] };
-key <AB03> { [ Arabic_jeem,		Arabic_hamzaonalef,	VoidSymbol	] };
-key <AB04> { [ Arabic_waw,		Arabic_hamzaonwaw,	VoidSymbol	] };
-key <AB05> { [ Arabic_beh,		Arabic_hamzaunderalef,	VoidSymbol	] };
-key <AB06> { [ Arabic_noon,		U06AD,			VoidSymbol	] };
-key <AB07> { [ Arabic_meem,		0x1000653,		VoidSymbol	] };
-key <AB08> { [ Arabic_theh,		Arabic_maddaonalef,	VoidSymbol	] };
-key <AB09> { [ Arabic_tcheh,	VoidSymbol,		VoidSymbol	] };
-key <AB10> { [ period,		colon,  		VoidSymbol	] };
+    key <AD01> { [ Arabic_qaf,		0x1000670,		VoidSymbol	] };
+    key <AD02> { [ Arabic_thal,		0x1000656,		VoidSymbol	] };
+    key <AD03> { [ Arabic_heh,		Arabic_fatha,		VoidSymbol	] };
+    key <AD04> { [ Arabic_ra,		VoidSymbol,		VoidSymbol	] };
+    key <AD05> { [ Arabic_teh,		Arabic_tehmarbuta,	VoidSymbol	] };
+    key <AD06> { [ 0x10006cc,		Arabic_yeh,		VoidSymbol 	] };
+    key <AD07> { [ Arabic_sad,		Arabic_damma,		VoidSymbol	] };
+    key <AD08> { [ Arabic_ain,		VoidSymbol,		VoidSymbol	] };
+    key <AD09> { [ Arabic_tah,		VoidSymbol,		VoidSymbol	] };
+    key <AD10> { [ Arabic_peh,		VoidSymbol,		VoidSymbol	] };
+    key <AD11> { [ Arabic_ghain,	VoidSymbol,		VoidSymbol	] };
+    key <AD12> { [ Arabic_hah,		VoidSymbol,		VoidSymbol	] };
 
-include "level3(ralt_switch)"
+    key <AC01> { [ Arabic_alef,		VoidSymbol,		VoidSymbol	] };
+    key <AC02> { [ Arabic_seen,		Arabic_sukun,		VoidSymbol	] };
+    key <AC03> { [ Arabic_dal,		Arabic_dammatan,	VoidSymbol	] };
+    key <AC04> { [ Arabic_feh,		Arabic_fathatan,	VoidSymbol	] };
+    key <AC05> { [ Arabic_gaf,		VoidSymbol,		VoidSymbol	] };
+    key <AC06> { [ Arabic_heh,		Arabic_hamzaonyeh,	VoidSymbol	] };
+    key <AC07> { [ Arabic_jeh,		VoidSymbol,		VoidSymbol	] };
+    key <AC08> { [ Arabic_keheh,	Arabic_kasratan,	VoidSymbol	] };
+    key <AC09> { [ Arabic_lam,		VoidSymbol,		VoidSymbol	] };
+    key <AC10> { [ Arabic_sheen,	Arabic_shadda,		VoidSymbol	] };
+    key <AC11> { [ Arabic_dad,		Arabic_kasra,		VoidSymbol	] };
+    key <AC12> { [ U2018,		Arabic_semicolon,	VoidSymbol	] };
+
+    key <AB01> { [ Arabic_zain,		Arabic_zah,		VoidSymbol	] };
+    key <AB02> { [ Arabic_khah,		Arabic_hamza,		VoidSymbol	] };
+    key <AB03> { [ Arabic_jeem,		Arabic_hamzaonalef,	VoidSymbol	] };
+    key <AB04> { [ Arabic_waw,		Arabic_hamzaonwaw,	VoidSymbol	] };
+    key <AB05> { [ Arabic_beh,		Arabic_hamzaunderalef,	VoidSymbol	] };
+    key <AB06> { [ Arabic_noon,		U06AD,			VoidSymbol	] };
+    key <AB07> { [ Arabic_meem,		0x1000653,		VoidSymbol	] };
+    key <AB08> { [ Arabic_theh,		Arabic_maddaonalef,	VoidSymbol	] };
+    key <AB09> { [ Arabic_tcheh,	VoidSymbol,		VoidSymbol	] };
+    key <AB10> { [ period,		colon,  		VoidSymbol	] };
+
+    include "level3(ralt_switch)"
 };
-
-
-
