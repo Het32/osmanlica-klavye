@@ -1,7 +1,7 @@
 //Osmanlıca Q klavye
 //Bu klavye TSE’nin tavsiyesine mutabık bir şekilde #Talebe tarafından tertiplenmiştir.
 //Yine de bazı farklılıkları bulunabilir.
-//Daha fazla bilgi için Osmanlıca Klavye
+//Daha fazla bilgi için http://forum.pardus.org.tr/t/osmanlica-klavye/3117
 
 partial default alphanumeric_keys
 xkb_symbols “basic” {
