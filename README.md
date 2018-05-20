@@ -24,10 +24,10 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 
 **Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)**
 
-Info
+<i>Info
 
 Ottoman Language is a version of modern day Turkish that existed before "The Turkish Language Reform". Even though Ottoman Language is just an old version of Turkish that written with "Elifba"(Islamic-Arabic alphabet) it has lots of differences from modern Turkish, more than enough to have its own identity. Today's native speaker of Turkish cannot read books that older than 200 years old. 
-Ottoman language can be partially written with Arabic keyboard layout but just like some letter differences between French-German-English etc.  Ottoman Language has its own differences with Arabic-Persian-Urdu etc. to have an accurate writing experience of Ottoman language with the keyboard you need a specialized layout and this is it.
+Ottoman language can be partially written with Arabic keyboard layout but just like some letter differences between French-German-English etc.  Ottoman Language has its own differences with Arabic-Persian-Urdu etc. to have an accurate writing experience of Ottoman language with the keyboard you need a specialized layout and this is it.<i>
 
 This keyboard written by hand for Pardus17(a debian based Turkish operating system.)
 Can be used on other Debian based Linux systems (Ubuntu Fedora etc.) possibly any system that uses xkb for keyboard layout.
