@@ -30,7 +30,7 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 **Ottoman Language keyboard layout for Linux (ubuntu,pardus etc.)**
 
 <i>
-<h3>Info<h/3>
+<h3>Info</h3>
 
 Ottoman Language is a version of modern day Turkish that existed before "The Turkish Language Reform". Even though Ottoman
 Language is just an old version of Turkish that written with "Elifba"(Islamic-Arabic alphabet) it has lots of differences from 
