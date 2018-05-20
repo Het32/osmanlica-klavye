@@ -33,7 +33,7 @@ Ottoman language can be partially written with Arabic keyboard layout but just l
 This keyboard written by hand for Pardus17(a debian based Turkish operating system.)
 Can be used on other Debian based Linux systems (Ubuntu Fedora etc.) possibly any system that uses xkb for keyboard layout.
 
-**Setup**
+**Manual Installation**
 
 Attention! Use sudo codes wisely they can damage your system. I do not take any respontibility but this is how i did it and it is working without any problem.
 
