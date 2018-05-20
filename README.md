@@ -17,7 +17,7 @@ Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurab
 * Tercihinize(F yada Q) göre klavye dosyalarını indirip masaüstüne taşıyın.(Klasörü değil dosyaları.)
 * Uçbirim(terminal)'i açın.
 * **Kodlar-Codes** dosyasını açın.
-* Şimdi sırayla oradaki kodları uçbirim(terminal)'e yazın.
+* Şimdi sırayla oradaki kodları uçbirim(terminal)'e yazın.<br>//Kodlar  "-----------------" ile ayrılmıştır.
 * Klavye ayarlarını açıp **Yerleşim** sekmesinden ekle seçeneğiyle **Osmanlıca** ekleyin.
 * İki klavye kullanıyorsanız klavyeler arası geçiş yapmak için **Yerleşim seçeneğini değiştirin** kısmıyla harf atayın.
 * Bilgisayarı kapatıp açın.
