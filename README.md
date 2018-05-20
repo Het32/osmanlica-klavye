@@ -1,7 +1,7 @@
+
+
+# Osmanlıca Klavye, Ottoman Language Keyboard,
 <h1>Türkçe Kısım</h1>
-
-# Osmanlca Klavye, Ottoman Language Keyboard,
-
 
 **Linux Ubuntu Pardus için osmanlıca klavye.** 
 
@@ -27,7 +27,7 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 
 <h1>English Section</h1>
 
-**Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)**
+**Ottoman Language keyboard layout for Linux (ubuntu,pardus etc.)**
 
 <i>
 <h3>Info<h/3>
@@ -45,7 +45,7 @@ writing experience of Ottoman language with the keyboard you need a specialized 
 This keyboard written by hand for Pardus17(a debian based Turkish operating system.)
 Can be used on other Debian based Linux systems (Ubuntu Fedora etc.) possibly any system that uses xkb for keyboard layout.
 
-**Manual Installation**
+<h3>Manual Installation</h3>
 
 Attention! Use sudo codes wisely they can damage your system. I do not take any respontibility but this is how i did it and it is working without any problem.
 
