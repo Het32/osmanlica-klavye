@@ -9,4 +9,4 @@ sudo sed -i "/  <\/layoutList>/ {
          N
      }" "/usr/share/X11/xkb/rules/evdev.xml"
 -----------------------------
-Daha fazla bilgi için http://forum.pardus.org.tr/t/osmanlica-klavye/3117
+
