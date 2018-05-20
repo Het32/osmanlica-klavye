@@ -34,8 +34,7 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 
 Ottoman Language is a version of modern day Turkish that existed before "The Turkish Language Reform". Even though Ottoman
 Language is just an old version of Turkish that written with "Elifba"(Islamic-Arabic alphabet) it has lots of differences from 
-modern Turkish, more than enough to have its own identity. Today's native speaker of Turkish cannot read books that older than 
-200 years old. 
+modern Turkish, more than enough to have its own identity.Today's regular Turkish native speakers can't read Ottoman books  and not even understand more than everyday speech if someone read to them
 
 Ottoman language can be partially written with Arabic keyboard layout but just like some letter differences between 
 French-German-English etc.  Ottoman Language has some letter differences with Arabic-Persian-Urdu etc. to have an accurate
