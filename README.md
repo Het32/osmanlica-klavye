@@ -1,3 +1,5 @@
+<h1>Türkçe Kısım</h1>
+
 # Osmanlca Klavye, Ottoman Language Keyboard,
 
 
@@ -22,10 +24,13 @@ Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurab
 
 Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsiniz.(Yedek dosyasını isterseniz saklayın?)
 
+
+<h1>English Section</h1>
+
 **Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)**
 
 <i>
-**Info**
+<h3>Info<h/3>
 
 Ottoman Language is a version of modern day Turkish that existed before "The Turkish Language Reform". Even though Ottoman
 Language is just an old version of Turkish that written with "Elifba"(Islamic-Arabic alphabet) it has lots of differences from 
