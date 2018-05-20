@@ -1,4 +1,5 @@
-# osmanlica-klavye-ottoman-keyboard
+# Osmanlca Klavye, Ottoman Language Keyboard,
+
 
 **Linux Ubuntu Pardus için osmanlıca klavye.** 
 
@@ -13,9 +14,9 @@ Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurab
 
 * Tercihinize(F yada Q) göre klavye dosyalarını indirip masaüstüne taşıyın.(Klasörü değil dosyaları.)
 * Uçbirim(terminal)'i açın.
-* **"Beni Oku** dosyasını açın.
+* **"Beni Oku-Readme** dosyasını açın.
 * Şimdi sırayla oradaki kodları uçbirim(terminal)'e yazın.
-* Klavye ayarlarını açıp **Yerleşim** sekmesinden ekle seçeneğiyle **Osmanlica** ekleyin.
+* Klavye ayarlarını açıp **Yerleşim** sekmesinden ekle seçeneğiyle **Osmanlıca** ekleyin.
 * İki klavye kullanıyorsanız klavyeler arası geçiş yapmak için **Yerleşim seçeneğini değiştirin** kısmıyla harf atayın.
 * Bilgisayarı kapatıp açın.
 
@@ -23,17 +24,24 @@ Klavyenizin eklenmiş olması lazım. Masaüstünde kalan dosyaları silebilirsi
 
 **Ottoman language keyboard layout for Linux (ubuntu,pardus etc.)**
 
-This keyboard written by hand for Pardus(a debian based turkish operating system.)
-Can be used on other Debian based systems. Possibly any system that use xkb for keyboard layout maybe with a little configuration.
+Info
+
+Ottoman Language is a version of modern day Turkish that existed before "The Turkish Language Reform". Even though Ottoman Language is just an old version of Turkish that written with "Elifba"(Islamic-Arabic alphabet) it has lots of differences from modern Turkish, more than enough to have its own identity. Today's native speaker of Turkish cannot read books that older than 200 years old. 
+Ottoman language can be partially written with Arabic keyboard layout but just like some letter differences between French-German-English etc.  Ottoman Language has its own differences with Arabic-Persian-Urdu etc. to have an accurate writing experience of Ottoman language with the keyboard you need a specialized layout and this is it.
+
+This keyboard written by hand for Pardus(a debian based Turkish operating system.)
+Can be used on other Debian based systems (Ubuntu Fedora etc.) possibly any system that use xkb for keyboard layout.
 
 Attention! Use sudo codes wisely they can damage your system. I do not take any respontibility but this is how i did it and it is working without any problem.
 
 First back up:
 > cp -b /usr/share/X11/xkb/rules/evdev.xml /home/[User Name]/Desktop
 
-* Choose a keyboard. Osmanlıca (Q) is based on US/Latin configuration(qwerty) with some arrangements. Osmanlıca (F) is based on "Turkish F Keyboard" which invented for faster writings but rarely used. Still up to you.
+* Choose a keyboard. 
+//Osmanlıca (Q) is based on US/Latin configuration(qwerty) with some arrangements.
+//Osmanlıca (F) is based on "Turkish F Keyboard" which invented for faster writings in Turkish but rarely used.
 * Download 3 file in the folder direcly to desktop.
-* Copy and paste codes in the **Beni Oku** file one by one to the terminal.(don't forget to pres enter each time)
+* Copy and paste codes in the **Beni Oku-Readme** file one by one to the terminal.(don't forget to pres enter each time)
 * Go to keyboard options and choose **Layout** from the upper menu. Then add Osmanlıca.
 * If you are going to use 2 keyboard at the same time specify a combination from **Chance layout option** for switching between 2 keyboard.
 * Relog or restart your computer for changes to apply.
