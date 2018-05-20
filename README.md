@@ -14,7 +14,7 @@ Dikkat! Sudo kodları tehlikelidir. Yanlış kullanımda ciddi hasarlar doğurab
 
 * Tercihinize(F yada Q) göre klavye dosyalarını indirip masaüstüne taşıyın.(Klasörü değil dosyaları.)
 * Uçbirim(terminal)'i açın.
-* **"Beni Oku-Readme** dosyasını açın.
+* **"Kodlar-Codes** dosyasını açın.
 * Şimdi sırayla oradaki kodları uçbirim(terminal)'e yazın.
 * Klavye ayarlarını açıp **Yerleşim** sekmesinden ekle seçeneğiyle **Osmanlıca** ekleyin.
 * İki klavye kullanıyorsanız klavyeler arası geçiş yapmak için **Yerleşim seçeneğini değiştirin** kısmıyla harf atayın.
@@ -41,7 +41,7 @@ First back up:
 //Osmanlıca (Q) is based on US/Latin configuration(qwerty) with some arrangements.
 //Osmanlıca (F) is based on "Turkish F Keyboard" which invented for faster writings in Turkish but rarely used.
 * Download 3 file in the folder direcly to desktop.
-* Copy and paste codes in the **Beni Oku-Readme** file one by one to the terminal.(don't forget to pres enter each time)
+* Copy and paste codes in the **Kodlar-Codes** file one by one to the terminal.(Each code is seperated with "-----------------" ,don't forget to pres enter for each code)
 * Go to keyboard options and choose **Layout** from the upper menu. Then add Osmanlıca.
 * If you are going to use 2 keyboard at the same time specify a combination from **Chance layout option** for switching between 2 keyboard.
 * Relog or restart your computer for changes to apply.
