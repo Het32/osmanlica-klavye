@@ -64,5 +64,6 @@ xkb_symbols "basic" {
     key <AB09> { [ period,		colon,  		VoidSymbol	] };
     key <AB10> { [ U2018,		Arabic_semicolon,	VoidSymbol	] };
 
+    include "kpdl(comma)"
     include "level3(ralt_switch)"
 };

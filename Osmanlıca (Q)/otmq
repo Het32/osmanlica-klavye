@@ -64,5 +64,6 @@ xkb_symbols "basic" {
     key <AB09> { [ Arabic_tcheh,	VoidSymbol,		VoidSymbol	] };
     key <AB10> { [ period,		colon,  		VoidSymbol	] };
 
+    include "kpdl(comma)"
     include "level3(ralt_switch)"
 };
