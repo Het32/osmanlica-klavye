@@ -29,7 +29,7 @@ xkb_symbols "basic" {
 
     key <AD01> { [ Arabic_qaf,		0x1000670,		VoidSymbol	] };
     key <AD02> { [ Arabic_thal,		0x1000656,		VoidSymbol	] };
-    key <AD03> { [ Arabic_heh,		Arabic_fatha,		VoidSymbol	] };
+    key <AD03> { [ UFEEA,		Arabic_fatha,		VoidSymbol	] };
     key <AD04> { [ Arabic_ra,		VoidSymbol,		VoidSymbol	] };
     key <AD05> { [ Arabic_teh,		Arabic_tehmarbuta,	VoidSymbol	] };
     key <AD06> { [ 0x10006cc,		Arabic_yeh,		VoidSymbol 	] };

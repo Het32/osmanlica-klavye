@@ -42,7 +42,7 @@ xkb_symbols "basic" {
 
     key <AC01> { [ Arabic_sad,		Arabic_damma,		VoidSymbol	] };
     key <AC02> { [ Arabic_dad,		Arabic_kasra,		VoidSymbol	] };
-    key <AC03> { [ Arabic_heh,		Arabic_fatha,		VoidSymbol	] };
+    key <AC03> { [ UFEEA,		Arabic_fatha,		VoidSymbol	] };
     key <AC04> { [ Arabic_alef,		VoidSymbol,		VoidSymbol	] };
     key <AC05> { [ Arabic_hah,		VoidSymbol,		VoidSymbol	] };
     key <AC06> { [ Arabic_teh,		Arabic_tehmarbuta,	VoidSymbol	] };
